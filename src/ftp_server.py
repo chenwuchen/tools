@@ -5,7 +5,7 @@
 # Author: chenwuchen.ml@outlook.com                                          
 # Date: 2025/06/27 17:06:54 
 # 功能：输入文件路径，生成wget下载链接                                           
-# usage: python3 src/ftp_server.py               
+# usage: python3 tools/ftp_server.py               
 # 
 ########################################################################
 
